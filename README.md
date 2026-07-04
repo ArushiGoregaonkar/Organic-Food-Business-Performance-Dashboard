@@ -1,4 +1,4 @@
-# -OrganicPulse-Organic-Food-Business-Performance-Dashboard
+# -Organic-Food-Business-Performance-Dashboard
  Here is a **very detailed, attractive, and professional GitHub README description** for your dashboard project:
 
 ---
